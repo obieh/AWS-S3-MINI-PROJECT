@@ -172,3 +172,18 @@ Block all public access' and click to save the changes.
 
 ![](./img/Pasted%20image%20(30).png)
 
+* Head over to the first version of your file in the S3 bucket.
+
+![](./img/Pasted%20image%20(31).png)
+
+* copy the object Uniform Resource Locator and head over to your browser. Past and hit enter.
+
+![](./img/Pasted%20image%20(32).png)
+
+* Now our file is now available and can be accessed publicly. Do same for the second version.
+
+![](./img/Pasted%20image%20(33).png)
+
+* Indeed the second version can also be accessed publicly.
+
+
