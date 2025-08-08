@@ -186,4 +186,26 @@ Block all public access' and click to save the changes.
 
 * Indeed the second version can also be accessed publicly.
 
+### Creating Lifecycle policies.
+
+* Click the Managment tab of the S3 bucket
+
+![](./img/Pasted%20image%20(34).png)
+
+* On the lifecycle section click 'create lifecycle rule'
+
+![](./img/Pasted%20image%20(35).png)
+
+* Add a name for the lifecycle rule. Select "Limit the scope of this rule using one or more filters" for Choose a rule scope. On the filter prefix type '.txt'
+
+![](./img/Pasted%20image%20(36).png)
+
+* Set object size to 2gb. Set maximum object size to 10gb. Check "Transition current versions of objects between storage classes, check to acknowledge that the rule will incur cost per request". Set 'Choose Storage class transition' to 'Standard -IA' and 'Days after object creation' to '30', Then click creat rule.
+
+![](./img/Pasted%20image%20(37).png)
+
+* You should a success page indicating lifecycle rule was successfully aadded.
+
+![](./img/Pasted%20image%20(38).png)
+
 
