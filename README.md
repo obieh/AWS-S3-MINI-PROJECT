@@ -1,5 +1,5 @@
 # AWS-S3-MINI-PROJECT.
-## This Project demonsrates S3 concepts in AWS.
+## This Project demonstrates S3 concepts in AWS.
 
 #### Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services (AWS) Simple Storage Service (S3) platform. It provides object-based storage, where data is stored inside S3 buckets in distinct units called objects instead of files.
 
@@ -67,3 +67,23 @@
 ![](./img/Pasted%20image%20(8).png)
 
 ## Uploading Content
+* Create a simple text file or any file of your choice.
+
+![](./img/Pasted%20image%20(9).png)
+
+* Click on the S3 bucket you just created and click upload.
+
+![](./img/Pasted%20image%20(10).png)
+
+* Click 'Add files' to begin adding files to your S3 bucket.
+
+![](./img/Pasted%20image%20(11).png)
+
+* Navigate to the location of rhe file you want to add, select the file then click upload.
+
+![](./img/Pasted%20image%20(12).png)
+
+* If file upload is successful, you should see a confirmation page,
+
+![](./img/Pasted%20image%20(13).png)
+
