@@ -87,3 +87,31 @@
 
 ![](./img/Pasted%20image%20(13).png)
 
+
+
+### Enable Versioning on S3 Bucket.
+
+* Click on the S3 bucket name and select the properties tab.
+
+![](./img/Pasted%20image%20(14).png)
+
+* On the Bucket Versioning block click 'edit', Select 'enable' and click 'Save changes'
+
+![](./img/Pasted%20image%20(15).png)
+
+* A success page shows up implying versionin has been enabled.
+
+![](./img/Pasted%20image%20(17).png)
+
+* Add some more content to the local file uploaded earlier.
+
+![](./img/Pasted%20image%20(16).png)
+
+* Upload the new version of the file to your bucket.
+
+On the S3 bucket toggle the show version knob to see the version of the file.
+
+![](./img/Pasted%20image%20(18).png)
+
+
+
