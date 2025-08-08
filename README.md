@@ -1,5 +1,5 @@
 # AWS-S3-MINI-PROJECT.
-## This Project demonsts S3 conepts in AWS.
+## This Project demonsrates S3 concepts in AWS.
 
 #### Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services (AWS) Simple Storage Service (S3) platform. It provides object-based storage, where data is stored inside S3 buckets in distinct units called objects instead of files.
 
@@ -66,3 +66,4 @@
 
 ![](./img/Pasted%20image%20(8).png)
 
+## Uploading Content
