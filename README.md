@@ -54,3 +54,15 @@
 ![](./img/Pasted%20image%20(5).png)
 
 
+* Select 'Block all public access' option. Ensure Bucket versioning is disabled.
+
+![](./img/Pasted%20image%20(6).png)
+
+* Leave encryption at 'server-side'. Bucket Key 'Enabled' and click 'create bucket'.
+
+![](./img/Pasted%20image%20(7).png)
+
+* Success page should popup, indicating bucket was successfully created.
+
+![](./img/Pasted%20image%20(8).png)
+
