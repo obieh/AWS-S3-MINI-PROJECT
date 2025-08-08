@@ -140,3 +140,35 @@ Block all public access' and click to save the changes.
 ### Create Policy
 
 * Move down to "Bucket Ploicy" and click edit.
+
+![](./img/Pasted%20image%20(24).png)
+
+* Towards the right click 'Policy Generator'
+
+![](./img/Pasted%20image%20(25).png)
+
+* Select 'S3 Bucket Policy' in policy type drop down.
+* Set the 'Effect' to 'Allow'
+* Specify the 'Principle' as "*", signifying all users.
+* Choose the action "Get object"  and "Get Object version"
+* Type the Amazon Resource Name(ARN) of your bucket and suffix with "/*" in the ARN field.
+* Click 'Add statement'
+
+![](./img/Pasted%20image%20(26).png)
+
+* Verify you have added "GetObjectVersion" and "GetObject" and click "Generate Policy"
+
+![](./img/Pasted%20image%20(28).png)
+
+* Copy the Policy and close the pop up window
+
+![](./img/Pasted%20image%20(29).png)
+
+* Got back to the previous window, paste the copied policy and click 'save changes'
+
+![](./img/Pasted%20image%20(29).png)
+
+* You should see a sucess page 'Successfully edited bucket policy'
+
+![](./img/Pasted%20image%20(30).png)
+
