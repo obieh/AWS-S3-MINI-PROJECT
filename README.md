@@ -113,5 +113,30 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ![](./img/Pasted%20image%20(18).png)
 
+### Setting/Editing Permisions
+
+* On the S3 bucket select permisions tab.
+
+![](./img/Pasted%20image%20(19).png)
+
+* Move a bit down to 'Block public access (bucket settings)' and click 'edit'
+
+![](./img/Pasted%20image%20(20).png)
+
+* Uncheck '
+Block all public access' and click to save the changes.
+
+![](./img/Pasted%20image%20(21).png)
+
+* Type 'confirm' and click confirm to save changes.
+
+![](./img/Pasted%20image%20(22).png)
+
+* We just removed 'Block all public access' policy from our S3 bucket A success page should confirm this.
+
+![](./img/Pasted%20image%20(23).png)
 
 
+### Create Policy
+
+* Move down to "Bucket Ploicy" and click edit.
