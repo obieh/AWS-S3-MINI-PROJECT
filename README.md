@@ -113,18 +113,17 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ![](./img/Pasted%20image%20(18).png)
 
-### Setting/Editing Permisions
+### Setting/Editing Permisions.
 
 * On the S3 bucket select permisions tab.
 
 ![](./img/Pasted%20image%20(19).png)
 
-* Move a bit down to 'Block public access (bucket settings)' and click 'edit'
+* Move a bit down to 'Block public access (bucket settings)' and click 'edit'.
 
 ![](./img/Pasted%20image%20(20).png)
 
-* Uncheck '
-Block all public access' and click to save the changes.
+* Uncheck 'Block all public access' and click to save the changes.
 
 ![](./img/Pasted%20image%20(21).png)
 
