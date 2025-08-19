@@ -66,7 +66,7 @@
 
 ![](./img/Pasted%20image%20(8).png)
 
-## Uploading Content
+## Uploading Content.
 * Create a simple text file or any file of your choice.
 
 ![](./img/Pasted%20image%20(9).png)
@@ -83,7 +83,7 @@
 
 ![](./img/Pasted%20image%20(12).png)
 
-* If file upload is successful, you should see a confirmation page,
+* If file upload is successful, you should see a confirmation page.
 
 ![](./img/Pasted%20image%20(13).png)
 
