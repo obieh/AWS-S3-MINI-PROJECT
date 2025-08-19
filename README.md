@@ -195,7 +195,7 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ![](./img/Pasted%20image%20(35).png)
 
-* Add a name for the lifecycle rule. Select "Limit the scope of this rule using one or more filters" for Choose a rule scope. On the filter prefix type '.txt'
+* Add a name for the lifecycle rule. Select "Limit the scope of this rule using one or more filters" for Choose a rule scope. On the filter prefix type '.txt'.
 
 ![](./img/Pasted%20image%20(36).png)
 
