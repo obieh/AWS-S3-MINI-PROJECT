@@ -142,24 +142,24 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ![](./img/Pasted%20image%20(24).png)
 
-* Towards the right click 'Policy Generator'
+* Towards the right click 'Policy Generator'.
 
 ![](./img/Pasted%20image%20(25).png)
 
 * Select 'S3 Bucket Policy' in policy type drop down.
-* Set the 'Effect' to 'Allow'
+* Set the 'Effect' to 'Allow'.
 * Specify the 'Principle' as "*", signifying all users.
-* Choose the action "Get object"  and "Get Object version"
+* Choose the action "Get object"  and "Get Object version".
 * Type the Amazon Resource Name(ARN) of your bucket and suffix with "/*" in the ARN field.
-* Click 'Add statement'
+* Click 'Add statement'.
 
 ![](./img/Pasted%20image%20(26).png)
 
-* Verify you have added "GetObjectVersion" and "GetObject" and click "Generate Policy"
+* Verify you have added "GetObjectVersion" and "GetObject" and click "Generate Policy".
 
 ![](./img/Pasted%20image%20(28).png)
 
-* Copy the Policy and close the pop up window
+* Copy the Policy and close the pop up window.
 
 ![](./img/Pasted%20image%20(29).png)
 
