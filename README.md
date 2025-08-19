@@ -39,9 +39,9 @@
 
 * Versioning: S3 support a category storage option called versioning. This feature protects against accidental delete of files. It can also store different version of a file.
 
-## Creation os Amazon S3 Bucket
+## Creation os Amazon S3 Bucket.
 
-* Head over to your AWS account. Type S3 in the search bar and click 'S3'
+* Head over to your AWS account. Type S3 in the search bar and click 'S3'.
 
 ![](./img/Pasted%20image%20(3).png)
 
