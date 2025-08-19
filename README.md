@@ -163,11 +163,11 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ![](./img/Pasted%20image%20(29).png)
 
-* Got back to the previous window, paste the copied policy and click 'save changes'
+* Got back to the previous window, paste the copied policy and click 'save changes'.
 
 ![](./img/Pasted%20image%20(29).png)
 
-* You should see a sucess page 'Successfully edited bucket policy'
+* You should see a sucess page 'Successfully edited bucket policy'.
 
 ![](./img/Pasted%20image%20(30).png)
 
@@ -187,11 +187,11 @@ On the S3 bucket toggle the show version knob to see the version of the file.
 
 ### Creating Lifecycle policies.
 
-* Click the Managment tab of the S3 bucket
+* Click the Managment tab of the S3 bucket.
 
 ![](./img/Pasted%20image%20(34).png)
 
-* On the lifecycle section click 'create lifecycle rule'
+* On the lifecycle section click 'create lifecycle rule'.
 
 ![](./img/Pasted%20image%20(35).png)
 
